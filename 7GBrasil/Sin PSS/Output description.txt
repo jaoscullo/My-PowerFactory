@@ -1,0 +1,4 @@
+Output 1 is state variable number 13 from Case 3MIB\G1.ElmSym
+Output 2 is state variable number 19 from Case 3MIB\G2.ElmSym
+Output 3 is state variable number 25 from Case 3MIB\G3.ElmSym
+Output 4 is state variable number 31 from Case 3MIB\SEP.ElmSym
